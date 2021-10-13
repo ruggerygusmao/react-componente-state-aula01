@@ -1,0 +1,31 @@
+.App{
+  width: 200px;
+  text-align: center;
+}
+.paragrafo{
+    background-color: rgb(219, 213, 213);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+button{
+  margin-right: 20px;
+}
+
+.somar{
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.subtrair{
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: bold;
+}
